@@ -1,5 +1,11 @@
-# History files
-.Rhistory
+# for testing, ignore these
 
-# Example code in package build process
-*-Ex.R
+# dev stuff
+.tags
+.j_tags
+.*.swp
+.*.swo
+
+# unit testing
+unit_test.log
+
